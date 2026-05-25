@@ -1,0 +1,7 @@
+mypy
+requests
+pandas
+openpyxl
+faker
+pytest
+schedule
